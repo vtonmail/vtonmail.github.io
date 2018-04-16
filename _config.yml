@@ -6,7 +6,7 @@
 name: Vyas Tungaturti
 
 # Short bio or description (displayed in the header)
-description: M&A Data Guy
+description: M&A Guy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/36107579?s=400&u=450196a7c37c1e578bc2990042eb5b863e693812&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: vtonmail
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/tuvyas/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
